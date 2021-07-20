@@ -134,3 +134,8 @@ dmypy.json
 # onstrodb
 test.py
 temp
+
+# vtag
+.tag
+test.json
+test.txt
